@@ -14,7 +14,7 @@ const HomePage = (props) => {
                 video={homeVideo}
                 title='MOUNTAINS AWAIT!'
                 subtitle='So, what are you waiting for?' 
-                link='/mountains/places/matterhorn'
+                link='/touch-mountains/places/matterhorn'
                 linkPlace='Matterhorn'
                 linkVideo='https://www.youtube.com/watch?v=VA0QopkQYjY'
             />
