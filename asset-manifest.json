@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/touch-mountains/static/css/main.9512d875.chunk.css",
+    "main.js": "/touch-mountains/static/js/main.4d91d3e7.chunk.js",
+    "main.js.map": "/touch-mountains/static/js/main.4d91d3e7.chunk.js.map",
+    "runtime-main.js": "/touch-mountains/static/js/runtime-main.d01c3c84.js",
+    "runtime-main.js.map": "/touch-mountains/static/js/runtime-main.d01c3c84.js.map",
+    "static/js/2.078a1b56.chunk.js": "/touch-mountains/static/js/2.078a1b56.chunk.js",
+    "static/js/2.078a1b56.chunk.js.map": "/touch-mountains/static/js/2.078a1b56.chunk.js.map",
+    "index.html": "/touch-mountains/index.html",
+    "static/css/main.9512d875.chunk.css.map": "/touch-mountains/static/css/main.9512d875.chunk.css.map",
+    "static/js/2.078a1b56.chunk.js.LICENSE.txt": "/touch-mountains/static/js/2.078a1b56.chunk.js.LICENSE.txt",
+    "static/media/Karakoram.a5ee8ae3.jpg": "/touch-mountains/static/media/Karakoram.a5ee8ae3.jpg",
+    "static/media/about.9672a2a6.mp4": "/touch-mountains/static/media/about.9672a2a6.mp4",
+    "static/media/contact.da42c69b.mp4": "/touch-mountains/static/media/contact.da42c69b.mp4",
+    "static/media/drawing.cbcc0db4.png": "/touch-mountains/static/media/drawing.cbcc0db4.png",
+    "static/media/eiger.bf850a56.jpg": "/touch-mountains/static/media/eiger.bf850a56.jpg",
+    "static/media/eiger2.22e0d16a.jpg": "/touch-mountains/static/media/eiger2.22e0d16a.jpg",
+    "static/media/home.a4f4b195.mp4": "/touch-mountains/static/media/home.a4f4b195.mp4",
+    "static/media/karakoram4.19b9c7da.jpg": "/touch-mountains/static/media/karakoram4.19b9c7da.jpg",
+    "static/media/logo.ad7799c6.png": "/touch-mountains/static/media/logo.ad7799c6.png",
+    "static/media/machu.a9e76411.jpg": "/touch-mountains/static/media/machu.a9e76411.jpg",
+    "static/media/machu2.757c225d.jpg": "/touch-mountains/static/media/machu2.757c225d.jpg",
+    "static/media/matterhorn.f184f984.jpg": "/touch-mountains/static/media/matterhorn.f184f984.jpg",
+    "static/media/matterhorn2.f1a870f4.jpg": "/touch-mountains/static/media/matterhorn2.f1a870f4.jpg",
+    "static/media/mountains.849be0c8.svg": "/touch-mountains/static/media/mountains.849be0c8.svg",
+    "static/media/nanga-parbat.e4f75da8.jpg": "/touch-mountains/static/media/nanga-parbat.e4f75da8.jpg",
+    "static/media/nanga.c84839a9.jpg": "/touch-mountains/static/media/nanga.c84839a9.jpg",
+    "static/media/pakistan-flag.ad6b188e.svg": "/touch-mountains/static/media/pakistan-flag.ad6b188e.svg",
+    "static/media/peru-flag.c6622d6b.svg": "/touch-mountains/static/media/peru-flag.c6622d6b.svg",
+    "static/media/places.c9507159.mp4": "/touch-mountains/static/media/places.c9507159.mp4",
+    "static/media/swiss-flag.295c7728.svg": "/touch-mountains/static/media/swiss-flag.295c7728.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d01c3c84.js",
+    "static/js/2.078a1b56.chunk.js",
+    "static/css/main.9512d875.chunk.css",
+    "static/js/main.4d91d3e7.chunk.js"
+  ]
+}
