@@ -14,7 +14,7 @@ const AboutPage = () => {
                 video={aboutVideo}
                 title='ABOUT US'
                 subtitle='Who are we and why are you here?' 
-                link='/mountains/places/eiger'
+                link='/touch-mountains/places/eiger'
                 linkPlace='Eiger'
                 linkVideo='https://www.youtube.com/watch?v=8hdJPC49S-4'
             />
