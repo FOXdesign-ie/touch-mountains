@@ -14,7 +14,7 @@ const ContactPage = () => {
           video={contactVideo}
           title='CONTACT US'
           subtitle='Contact us and experience an unforgettable adventure' 
-          link='/mountains/places/karakoram'
+          link='/touch-mountains/places/karakoram'
           linkPlace='Karakoram'
           linkVideo='https://www.youtube.com/watch?v=JBK_5-2UsNA'
         />
