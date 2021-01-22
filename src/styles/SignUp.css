@@ -1,0 +1,97 @@
+.sign-up {
+    background-color: #eeeeee;
+    text-align: center;
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5em;
+    overflow: hidden;
+}
+
+.sign-up__heading {
+  margin-bottom: 1.5em;
+  font-size: 1.6em;
+}
+  
+.sign-up__text {
+  margin-bottom: 1.5em;
+  font-size: 1.3em;
+}
+
+.sign-up__input {
+    padding: 8px 20px;
+    border-radius: 2px;
+    margin-right: 1em;
+    outline: none;
+    border: none;
+    font-size: 1em;
+    border: 1px solid #eee;
+}
+  
+.sign_up__button {
+    padding: 0.2em 1em;
+    cursor: pointer;
+}
+
+  @media screen and (max-width: 960px) {
+    .sign-up {
+      padding-top: 3em;
+      padding-left: 2em;
+      padding-right: 2em;
+    }
+
+    .sign-up__heading {
+      font-size: 1.3em;
+    }
+
+    .sign-up__text {
+      margin: 0em 0.5em 2em 1.5em;
+      font-size: 1em;
+    }
+
+    .sign-up form {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .sign-up__input {
+      width: 100%;
+      font-size: 0.8em;
+      margin-bottom: 1em;
+    }
+
+    .sign_up__button {
+     width: 50%;
+     margin: 0 auto;
+  }
+
+    .sign-up__img  img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+
+  @media screen and (max-width: 960px) and (orientation: landscape) {
+    .sign-up__heading {
+      margin: 1em 0.5em;
+    }
+
+    .sign-up form {
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      width: 60vw;
+    }
+
+    .sign-up__input {
+      width: 60%;
+      margin-bottom: 0em;
+    }
+   
+    .sign_up__button {
+     width: 40%;
+    }
+  }

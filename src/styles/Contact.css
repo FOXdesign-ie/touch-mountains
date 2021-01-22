@@ -1,0 +1,130 @@
+.contact {
+    background-color: #fff;
+    /* min-height: 90vh; */
+    padding: 4em 5em 1.5em 5em;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+   
+}
+
+.contact h2 {
+    font-size: 3em;
+    padding-bottom: 0.5em;
+}
+
+.contact p {
+    font-size: 1.5em;
+    padding-top: 1em;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.contact-container {
+    margin: 2em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contact-form {
+    min-width: 60%;
+    padding: 2em;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 60%;
+    padding: 0.5em 1em;
+    border: 2px ridge #eee;
+}
+
+.contact-form input[type=submit] {
+    cursor: pointer;
+}
+
+.contact-details {
+    height: 100%;
+    min-width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items:start;
+}
+
+.contact-details div {
+    margin: 1em;
+    font-size: 1.1em;
+    display: flex;
+}
+
+.contact-details div i {
+    font-size: 1.7em;
+    width: 3vw;
+    margin-right: 1em;
+}
+
+.contact img {
+    width: 85%;
+    margin: 2em auto 2em auto;
+    outline: 1px solid var(--accent-color);
+    outline-offset: -10px;
+}
+
+
+@media screen and (max-width: 960px) {
+    .contact {
+        padding: 2.5em 1em 1em 1em;
+    }
+
+    .contact h2 {
+        font-size: 2em;
+        padding-bottom: 0.4em;
+    }
+    
+    .contact p {
+        font-size: 1.1em;
+        padding-top: 1em;
+        width: 90%;
+    }
+
+    .contact-container {
+        margin: 1em;
+        flex-direction: column;
+    }
+
+    .contact-form {
+        min-width: 100%;
+        padding: 1em;
+    }
+
+    .contact-form input,
+    .contact-form textarea {
+        width: 100%;
+       text-align: center;
+    }
+
+    .contact-details {
+       width: 100%;
+       margin-top: 1em;
+    }
+    
+    .contact-details div {
+        /* margin: 1.8em 0; */
+        font-size: 1em;
+    }
+    
+    .contact-details div i {
+        font-size: 1.6em;
+        text-align: center;
+        width: 1.5em;
+        margin-right: 1em;
+    }
+
+    @media screen and (max-width: 960px) and (orientation: landscape) {
+        .contact-details {
+           width: 50%;
+        }
+    }
+}
