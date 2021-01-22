@@ -21,7 +21,7 @@ const PlacesPage = () => {
                 video={placeVideo}
                 title='AWESOME PLACES'
                 subtitle='Alps, Karakoram, Himalayas or Andes?' 
-                link='/mountains/places/machu-picchu'
+                link='/touch-mountains/places/machu-picchu'
                 linkPlace='Machu Picchu'
                 linkVideo='https://www.youtube.com/watch?v=cnMa-Sm9H4k'
             />
