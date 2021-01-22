@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/touch-mountains/static/css/main.9512d875.chunk.css",
-    "main.js": "/touch-mountains/static/js/main.4d91d3e7.chunk.js",
-    "main.js.map": "/touch-mountains/static/js/main.4d91d3e7.chunk.js.map",
+    "main.js": "/touch-mountains/static/js/main.c24a1023.chunk.js",
+    "main.js.map": "/touch-mountains/static/js/main.c24a1023.chunk.js.map",
     "runtime-main.js": "/touch-mountains/static/js/runtime-main.d01c3c84.js",
     "runtime-main.js.map": "/touch-mountains/static/js/runtime-main.d01c3c84.js.map",
     "static/js/2.078a1b56.chunk.js": "/touch-mountains/static/js/2.078a1b56.chunk.js",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.d01c3c84.js",
     "static/js/2.078a1b56.chunk.js",
     "static/css/main.9512d875.chunk.css",
-    "static/js/main.4d91d3e7.chunk.js"
+    "static/js/main.c24a1023.chunk.js"
   ]
 }
